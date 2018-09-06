@@ -7,7 +7,6 @@ import java.util.Stack;
 public class DirReduction {
     public static String[] dirReduc(String[] arr){
        final Stack<String> stack = new Stack<String>();
-
        for (final String direction : arr){
            final String lastElement = stack.size()>0?stack.lastElement():null;
 
