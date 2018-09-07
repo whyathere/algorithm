@@ -21,7 +21,7 @@ public class ScrambliesTest {
         testing(Scramblies.scramble("scriptsjava","javascripts"),true);
         testing(Scramblies.scramble("javscripts","javascript"),false);
         testing(Scramblies.scramble("aabbcamaomsccdd","zhuangzhuang"),true);
-        testing(Scramblies.scramble("aabbcamaomsccdd","112"),true);
+        testing(Scramblies.scramble("aabbcamaomsccdd","1122333"),true);
         testing(Scramblies.scramble("commas","commas"),true);
         testing(Scramblies.scramble("sammoc","commas"),true);
     }
