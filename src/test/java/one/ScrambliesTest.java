@@ -20,7 +20,7 @@ public class ScrambliesTest {
         testing(Scramblies.scramble("scriptingjava","javascript"),true);
         testing(Scramblies.scramble("scriptsjava","javascripts"),true);
         testing(Scramblies.scramble("javscripts","javascript"),false);
-        testing(Scramblies.scramble("aabbcamaomsccdd","commas111"),true);
+        testing(Scramblies.scramble("aabbcamaomsccdd","cos111"),true);
         testing(Scramblies.scramble("aabbcamaomsccdd","112"),true);
         testing(Scramblies.scramble("commas","commas"),true);
         testing(Scramblies.scramble("sammoc","commas"),true);
