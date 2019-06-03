@@ -1,7 +1,5 @@
 package com.zero.one;
 
-import java.util.Arrays;
-
 public class SortTheOdd {
     public static int[] sortArray(final int[] array) {
 
