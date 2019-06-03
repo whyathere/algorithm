@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0a8b11f-19d4-435d-a935-5c04a2ca286d" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/workspace/infinox_myaccount/src/main/resources/config/properties/test_env_setting.properties" beforeDir="false" afterPath="$USER_HOME$/workspace/infinox_myaccount/src/main/resources/config/properties/test_env_setting.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zero/one/DirReduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zero/one/DirReduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zero/one/SortTheOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zero/one/SortTheOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/one/DRootExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/one/DRootExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/one/DirReductionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/one/ScrambliesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/one/ScrambliesTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$USER_HOME$/workspace/infinox_myaccount/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/java/com/infinox/myaccount/deposit/controller/DepositController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="845">
+              <caret line="619" column="46" selection-start-line="619" selection-start-column="46" selection-end-line="619" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/workspace/web/dev/infinox/project/trader/js/deposit/deposit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="552" column="5" selection-start-line="552" selection-start-column="5" selection-end-line="552" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/two/MaoPao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/two/DefaultQuest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CREDIT_CARD</find>
+      <find>bankaccount</find>
+      <find>deposit_history_data_list</find>
+      <find>creditCard</find>
+      <find>img</find>
+      <find>Credit Card</find>
+      <find>infinox_creditcard_payment_set</find>
+      <find>zota</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/zero/three</dir>
+      <dir>$USER_HOME$/workspace/web/dev/infinox/view/trader</dir>
+      <dir>$USER_HOME$/workspace/web/dev/infinox</dir>
+      <dir>$USER_HOME$/workspace/infinox_myaccount</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/workspace/infinox_myaccount" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/one/one.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/one/YourOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/one/DirectionsReduction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/one/DirReductionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/one/DirReduction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/one/SortTheOdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/one/Scramblies.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/one/DRoot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/one/Ninenie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/com/zero/one/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/one/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/HMacSha1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/two/Quest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/two/DefaultQuest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/two/MockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/two/BigDecimal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/two/BigDecimal12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/two/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/three/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/three/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/Linklist/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/Linklist/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/QueueExm/NameInte.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/QueueExm/NameImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/QueueExm/QueueExm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/Linklist/ValidSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/Linklist/Exemple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/three/HttpServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/two/MaoPao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/thread/ThreadOfFile.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AlogatewayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/one/Encrypt.java" />
+        <option value="$PROJECT_DIR$/src/test/java/one/EncryptTools.java" />
+        <option value="$PROJECT_DIR$/src/test/java/one/HtmlCreater.java" />
+        <option value="$PROJECT_DIR$/src/test/java/one/ScrambliesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/util/GsdUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/util/StringUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/classes/BigDecimalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/TestPay.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/TestOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/MD5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/SignUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/one/TestGsdPayment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/one/DRootExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zero/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/Apache/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/Apache/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="test" />
+      </list>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="dev" />
+        <option value="nexus" />
+        <option value="test_tw" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zero" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550050027599" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="util" />
+      <recent name="one" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/one" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="BigDecimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zero.classes.BigDecimalTest" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zero.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DRootExampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.DRootExampleTest" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zero.Test" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zero.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Test" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGsdPayment.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="one" />
+      <option name="MAIN_CLASS_NAME" value="one.TestGsdPayment" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BigDecimalTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.DRootExampleTest" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="JUnit.TestGsdPayment.test01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.DRootExampleTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BigDecimalTest" />
+        <item itemvalue="JUnit.TestGsdPayment.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a8b11f-19d4-435d-a935-5c04a2ca286d" name="Default Changelist" comment="" />
+      <created>1535538503921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535538503921</updated>
+      <workItem from="1535538506236" duration="128000" />
+      <workItem from="1535538656353" duration="607000" />
+      <workItem from="1535539385188" duration="743000" />
+      <workItem from="1535615746605" duration="18000" />
+      <workItem from="1535698412417" duration="9130000" />
+      <workItem from="1536543701312" duration="635000" />
+      <workItem from="1536546297236" duration="2550000" />
+      <workItem from="1536715601923" duration="1470000" />
+      <workItem from="1536737614587" duration="1001000" />
+      <workItem from="1536914538811" duration="1705000" />
+      <workItem from="1537179397320" duration="5168000" />
+      <workItem from="1538961934532" duration="6624000" />
+      <workItem from="1539070824529" duration="3951000" />
+      <workItem from="1539171044067" duration="5216000" />
+      <workItem from="1539683301547" duration="473000" />
+      <workItem from="1539743673681" duration="1989000" />
+      <workItem from="1539846750566" duration="2500000" />
+      <workItem from="1540289624812" duration="511000" />
+      <workItem from="1540292953826" duration="1981000" />
+      <workItem from="1540521148774" duration="9501000" />
+      <workItem from="1540798471351" duration="1688000" />
+      <workItem from="1540888402335" duration="282000" />
+      <workItem from="1541066312182" duration="997000" />
+      <workItem from="1542621539645" duration="1760000" />
+      <workItem from="1542678224112" duration="38000" />
+      <workItem from="1542679984135" duration="1285000" />
+      <workItem from="1542799172768" duration="4000" />
+      <workItem from="1542854116170" duration="441000" />
+      <workItem from="1542856114646" duration="3122000" />
+      <workItem from="1542875511453" duration="2748000" />
+      <workItem from="1542945062325" duration="4109000" />
+      <workItem from="1542967305929" duration="1843000" />
+      <workItem from="1543199863319" duration="5427000" />
+      <workItem from="1543213324838" duration="1332000" />
+      <workItem from="1543220621495" duration="96000" />
+      <workItem from="1543220764765" duration="13958000" />
+      <workItem from="1543376209061" duration="1058000" />
+      <workItem from="1544154347353" duration="62000" />
+      <workItem from="1544163799527" duration="675000" />
+      <workItem from="1545122815485" duration="2986000" />
+      <workItem from="1545640419054" duration="115000" />
+      <workItem from="1546383955679" duration="21000" />
+      <workItem from="1546384012380" duration="593000" />
+      <workItem from="1546471224018" duration="563000" />
+      <workItem from="1546482547867" duration="8451000" />
+      <workItem from="1546506230020" duration="3917000" />
+      <workItem from="1549955989078" duration="4000" />
+      <workItem from="1550048743951" duration="1293000" />
+      <workItem from="1550108144011" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1535539206154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535539206154</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1535539300606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535539300606</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init1">
+      <created>1535539434482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535539434482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First message!">
+      <created>1535594519363</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535594519363</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 11h 49m 58s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 11h 52m 13s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 11h 58m 37s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 12h 00m 39s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 12h 03m 15s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 12h 05m 10s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 12h 06m 32s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 12h 07m 38s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 14h 03m 15s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGsdPayment_test01 - 2018.11.26 at 14h 04m 12s.xml">
+      <configuration name="TestGsdPayment.test01" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="114782000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.36073825" visible="true" weight="0.24387646" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.19553073" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.37430167" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39896372" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50143063" side_tool="true" weight="0.3469388" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49733758" weight="0.3442177" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49928468" weight="0.325419" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24973376" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" sideWeight="0.49893844" weight="0.32960597" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" x="2647" y="181" width="278" height="380" id="Structure" order="9" sideWeight="0.50106156" side_tool="true" weight="0.32960597" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.32960597" />
+      <window_info anchor="right" id="Mybatis datasource" order="11" side_tool="true" />
+      <window_info anchor="right" id="IDEtalk" order="12" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23961662" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.29222798" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990099" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50143063" side_tool="true" weight="0.3469388" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49733758" weight="0.3442177" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49928468" weight="0.32746115" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="init1" />
+    <MESSAGE value="First message!" />
+    <option name="LAST_COMMIT_MESSAGE" value="First message!" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/QueueExm/QueueExm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/Linklist/ValidSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/two/BigDecimal12.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/three/HttpServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/thread/ThreadOfFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2992" column="25" selection-start-line="2992" selection-start-column="25" selection-end-line="2992" selection-end-column="25" />
+          <folding>
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/one/HtmlCreater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/util/GsdUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AlogatewayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/one/Encrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/one/ScrambliesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/classes/BigDecimalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/util/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/one/EncryptTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="182" column="3" selection-start-line="182" selection-start-column="3" selection-end-line="182" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#6554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/HttpClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/TestOrder.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/SignUtils.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.10/commons-codec-1.10.jar!/org/apache/commons/codec/digest/DigestUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/MD5.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/TestPay.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ArithmeticException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="4147" selection-start-line="4147" selection-end-line="4147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/one/DRootExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/one/TestGsdPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ty/user/user-api/0.2.0-infinox01-SNAPSHOT/user-api-0.2.0-infinox01-20190102.110657-11.jar!/com/ty/user/service/UserDepositChannelService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ty/system-config/config-api/0.2.0-infinox01-SNAPSHOT/config-api-0.2.0-infinox01-20190102.110527-76.jar!/com/ty/paymentChannelSet/enums/PayMentChannelSetEnum.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/java/com/infinox/myaccount/deposit/service/DepositService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="437" column="48" selection-start-line="437" selection-start-column="37" selection-end-line="437" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/java/com/infinox/myaccount/deposit/controller/DepositHistoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="61" column="75" selection-start-line="61" selection-start-column="75" selection-end-line="61" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/webapp/WEB-INF/ftl/myAccount/deposit/deposit_history_data_list.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/webapp/WEB-INF/ftl/myAccount/withdraw/withdraw.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="165" column="40" selection-start-line="165" selection-start-column="40" selection-end-line="165" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/java/com/infinox/myaccount/withdraw/service/WithdrawWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="788" column="94" selection-start-line="788" selection-start-column="94" selection-end-line="788" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/java/com/infinox/myaccount/enums/ChannelEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/java/com/infinox/myaccount/enums/DepositEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/web/dev/infinox/view/admin/systemSettings/CUP/paymentChannelSettings-edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/web/dev/infinox/view/trader/deposit/deposit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="183" column="69" selection-start-line="183" selection-start-column="58" selection-end-line="183" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/web/dev/infinox/view/trader/withdraw/withdraw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/web/dev/infinox/view/admin/systemSettings/CUP/paymentChannelSettings-add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/web/dev/infinox/project/trader/imgs/deposit/icon_card.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/resources/config/spring/spring-dubbo-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/web/dev/infinox/project/trader/imgs/deposit/icon_checked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/web/dev/infinox/project/trader/imgs/deposit/icon_bankTransfer.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/webapp/WEB-INF/ftl/myAccount/deposit/deposit.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1054">
+          <caret line="144" column="41" lean-forward="true" selection-start-line="144" selection-start-column="41" selection-end-line="144" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/two/MaoPao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zero/two/DefaultQuest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/web/dev/infinox/project/trader/js/deposit/deposit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="552" column="5" selection-start-line="552" selection-start-column="5" selection-end-line="552" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/infinox_myaccount/src/main/java/com/infinox/myaccount/deposit/controller/DepositController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="619" column="46" selection-start-line="619" selection-start-column="46" selection-end-line="619" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
