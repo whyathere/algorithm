@@ -3,23 +3,21 @@ package com.linklist;
 public class ListTest {
 
     public static void main(String[] args) {
-        ListNode data = new ListNode(0);
-//        data.next=new ListNode(1);
-//        data.next.next=new ListNode(2);
-//        data.next.next.next=new ListNode(3);
-//        data.next.next.next.next=new ListNode(4);
-//        data.next.next.next.next.next=new ListNode(5);
 
+        //封装测试参数
         ListNode pre = null;
-
-        for (int i =1;i<10;i++){
-            
+        for (int i =9;i>0;i--){
+            ListNode temp = new ListNode(i);
+            temp.next = pre;
+            pre = temp;
         }
 
-        ListNode node = SolutionOfReverseList.reverseList(data);
+        //反向链表
+        ListNode node = SolutionOfReverseList.reverseList(pre);
 
+        //打印反向链表
         ListNode tempNode = node;
-        while (tempNode.val >0){
+        while (tempNode !=null){
             System.out.println(tempNode.val);
             tempNode =tempNode.next;
         }
